@@ -1,0 +1,29 @@
+h1 {
+    color: #00ffff;
+    font-size: 70px;
+}
+
+body{
+    background-color: aliceblue;
+}
+
+#boba{
+    color: green; 
+}
+
+p {
+    font-size: 36px;
+    color: orange;
+}
+
+p a {
+    color: orange;
+}
+
+.taco{
+    font-size: 18px;
+}
+
+.taco-content{
+    height:250px;
+}
